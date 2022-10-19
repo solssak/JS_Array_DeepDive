@@ -108,3 +108,7 @@ const sortedPrices = prices.sort((a, b) => {
 });
 // console.log(sortedPrices.reverse());
 console.log(sortedPrices);
+
+if() {
+  
+}
